@@ -21,47 +21,49 @@ Medium: Classifying loan applications as approved or denied based on various fin
 Random Forest:
 Easy: Predicting whether a customer will buy a product online based on browsing history and time spent on the website.
 Medium: Diagnosing a medical condition (e.g., diabetes) based on a combination of patient history and test results.
-Support Vector Machines (SVM):
 
+
+Support Vector Machines (SVM):
 Easy: Classifying handwritten digits (e.g., recognizing digits 0 and 1).
 Medium: Predicting whether a customer will churn (leave) a subscription service based on usage patterns and customer feedback.
-K-Nearest Neighbors (KNN):
 
+K-Nearest Neighbors (KNN):
 Easy: Recommending movies to a user based on the ratings of users with similar tastes.
 Medium: Identifying the type of vehicle in a traffic image based on its surrounding vehicles.
-Naive Bayes:
 
+
+Naive Bayes:
 Easy: Classifying emails as spam or not based on the occurrence of specific words.
 Medium: Categorizing news articles into topics based on the frequency of words.
-K-Means Clustering:
 
+K-Means Clustering:
 Easy: Grouping customers based on their purchasing behavior.
 Medium: Segmenting internet users based on their online activities.
-Hierarchical Clustering:
 
+Hierarchical Clustering:
 Easy: Grouping animals based on features like size and diet.
 Medium: Cluster analysis of gene expression data to identify patterns in biological samples.
-Neural Networks (Deep Learning):
 
+Neural Networks (Deep Learning):
 Easy: Recognizing handwritten digits in the MNIST dataset.
 Medium: Image classification for identifying objects in a set of diverse images.
-Gradient Boosting Machines (e.g., XGBoost, LightGBM):
 
+Gradient Boosting Machines (e.g., XGBoost, LightGBM):
 Easy: Predicting the outcome of a football game based on team statistics.
 Medium: Detecting fraudulent credit card transactions based on transaction history.
-Principal Component Analysis (PCA):
 
+Principal Component Analysis (PCA):
 Easy: Reducing the dimensionality of facial recognition data for easier processing.
 Medium: Analyzing customer purchasing habits in a high-dimensional dataset.
-Recurrent Neural Networks (RNNs):
 
+Recurrent Neural Networks (RNNs):
 Easy: Predicting the next word in a sentence.
 Medium: Stock price prediction based on historical price sequences.
-Long Short-Term Memory (LSTM) Networks:
 
+Long Short-Term Memory (LSTM) Networks:
 Easy: Sentiment analysis of movie reviews.
 Medium: Predicting patient admissions to a hospital based on historical health records.
-Gaussian Mixture Models (GMM):
 
+Gaussian Mixture Models (GMM):
 Easy: Image segmentation to identify regions with similar pixel intensities.
 Medium: Identifying different speech patterns in audio data.
