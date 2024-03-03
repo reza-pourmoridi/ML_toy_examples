@@ -1,21 +1,6 @@
 import numpy as np
 
 def generate_synthetic_data(num_users, num_movies, max_rating=5):
-    """
-    Generate synthetic movie rating data.
-
-    Args:
-    - num_users (int): Number of users in the dataset.
-    - num_movies (int): Number of movies in the dataset.
-    - max_rating (int): Maximum rating value.
-
-    Returns:
-    - ratings (numpy.ndarray): Array of shape (num_users, num_movies) containing synthetic ratings.
-    - user_ids (list): List of user IDs.
-    - movie_ids (list): List of movie IDs.
-    """
-
-    # Generate random ratings for each user-movie pair
     ratings = np.random.randint(0, max_rating+1, size=(num_users, num_movies))
 
     # Generate user IDs and movie IDs
