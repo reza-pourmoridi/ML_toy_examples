@@ -34,5 +34,4 @@ ratings_matrix = np.array(synthetic_data)
 
 recommender = MovieRecommender(ratings_matrix, user_ids, movie_ids , 10)
 recommended_movies = recommender.recommend_movies('User_1')
-print(synthetic_data)
 print("Recommended movies for User_1:", recommended_movies)

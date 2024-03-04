@@ -27,8 +27,8 @@ class MovieRecommender:
     def recommend_movies(self, user_id, num_recommendations=5):
         user_index = self.user_ids.index(user_id)
         user_ratings = self.ratings_matrix[user_index]
-
         nearest_neighbors_indices = self.find_k_nearest_neighbors(user_ratings)
+        # print(nearest_neighbors_indices)
 
         avg_ratings = np.mean(self.ratings_matrix[nearest_neighbors_indices], axis=0)
         unrated_movies_mask = user_ratings == 0
