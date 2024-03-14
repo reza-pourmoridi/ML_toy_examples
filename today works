@@ -1,13 +1,13 @@
 
 genre:
-Support Vector Machines (SVM):
-Easy: Classifying handwritten digits (e.g., recognizing digits 0 and 1).
+Neural Networks (Deep Learning):
+Easy: Recognizing handwritten digits in the MNIST dataset.
 
-one long round of seeing content about svm math. one long round ++
+one long round of seeing content about nn math. one long round ++
 
 one long round for writing a code that using algorithm creat data ++
 
-reading and testing oop example of solving the example using libraries. one round++
+reading and testing oop example of solving the example using libraries. one roun
 
 reading the prvious examples, this time using pure math
 
